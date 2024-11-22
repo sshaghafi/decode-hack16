@@ -1,0 +1,11 @@
+App Name,Location Scene,Error Type,Vsh Error Hex Code,Error Message,Count
+Overall,Overall,Overall,Overall,Overall,3
+universal-checkout,Overall,Overall,Overall,Overall,3
+universal-checkout,checkout:enter discount code,Overall,Overall,Overall,2
+universal-checkout,checkout:enter discount code,Client error (4xx),Overall,Overall,2
+universal-checkout,checkout:enter discount code,Client error (4xx),0x82106034,Overall,2
+universal-checkout,checkout:enter discount code,Client error (4xx),0x82106034,API_RESULT_INVALID_COUPON_CODE,2
+universal-checkout,checkout:enter voucher code,Overall,Overall,Overall,1
+universal-checkout,checkout:enter voucher code,Client error (4xx),Overall,Overall,1
+universal-checkout,checkout:enter voucher code,Client error (4xx),0x82110065,Overall,1
+universal-checkout,checkout:enter voucher code,Client error (4xx),0x82110065,Resource Not Found,1

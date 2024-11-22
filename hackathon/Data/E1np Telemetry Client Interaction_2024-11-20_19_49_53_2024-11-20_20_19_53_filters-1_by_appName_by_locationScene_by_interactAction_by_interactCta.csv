@@ -1,0 +1,38 @@
+App Name,Location Scene,Interact Action,Interact Cta,Count
+Overall,Overall,Overall,Overall,13
+game-hub,Overall,Overall,Overall,1
+game-hub,pre:cover:Call of Duty  Black Ops 4  Concept Level Text Change -Standard Edition,Overall,Overall,1
+game-hub,pre:cover:Call of Duty  Black Ops 4  Concept Level Text Change -Standard Edition,select add to cart,Overall,1
+game-hub,pre:cover:Call of Duty  Black Ops 4  Concept Level Text Change -Standard Edition,select add to cart,add to cart,1
+rnps-home,Overall,Overall,Overall,1
+rnps-home,game,Overall,Overall,1
+rnps-home,game,open hub,Overall,1
+rnps-home,game,open hub,,1
+elysion,Overall,Overall,Overall,2
+elysion,BROWSE:BROWSE_GRID_FINAL,Overall,Overall,2
+elysion,BROWSE:BROWSE_GRID_FINAL,select product tile go to game hub,Overall,2
+elysion,BROWSE:BROWSE_GRID_FINAL,select product tile go to game hub,product tile,2
+control-center,Overall,Overall,Overall,3
+control-center,function control,Overall,Overall,1
+control-center,function control,select control center icon,Overall,1
+control-center,function control,select control center icon,home,1
+control-center,action cards,Overall,Overall,2
+control-center,action cards,close action card,Overall,1
+control-center,action cards,close action card,,1
+control-center,action cards,select action card,Overall,1
+control-center,action cards,select action card,,1
+universal-checkout,Overall,Overall,Overall,6
+universal-checkout,checkout:add a credit or debit card:qr code screen,Overall,Overall,1
+universal-checkout,checkout:add a credit or debit card:qr code screen,select use controller instead,Overall,1
+universal-checkout,checkout:add a credit or debit card:qr code screen,select use controller instead,use controller instead,1
+universal-checkout,checkout:version upsell:concept id 10001483,Overall,Overall,1
+universal-checkout,checkout:version upsell:concept id 10001483,select pvu game tile,Overall,1
+universal-checkout,checkout:version upsell:concept id 10001483,select pvu game tile,pvu game tile STANDARD 3,1
+universal-checkout,checkout:confirm purchase,Overall,Overall,2
+universal-checkout,checkout:confirm purchase,select enter discount code,Overall,2
+universal-checkout,checkout:confirm purchase,select enter discount code,enter discount code,2
+universal-checkout,checkout:purchase details,Overall,Overall,2
+universal-checkout,checkout:purchase details,select add payment method,Overall,1
+universal-checkout,checkout:purchase details,select add payment method,add payment method,1
+universal-checkout,checkout:purchase details,select remove discount code,Overall,1
+universal-checkout,checkout:purchase details,select remove discount code,remove discount code,1

@@ -1,0 +1,26 @@
+App Name,Location Scene,Count
+Overall,Overall,42
+action-card-host-app,Overall,1
+action-card-host-app,explore:list view,1
+game-hub,Overall,2
+game-hub,pre:cover:Call of Duty  Black Ops 4  Concept Level Text Change -Standard Edition,2
+rnps-home,Overall,2
+rnps-home,game,2
+control-center,Overall,3
+control-center,function control,1
+control-center,action cards,2
+universal-checkout,Overall,34
+universal-checkout,checkout:add venmo account:apm_venmo:tandem commerce:leaving this screen dialog,1
+universal-checkout,checkout:add venmo account:apm_venmo:tandem commerce:loading,1
+universal-checkout,checkout:discount code valid apply confirmation,1
+universal-checkout,checkout:enter voucher code,1
+universal-checkout,checkout:processing payment,1
+universal-checkout,checkout:voucher code error not valid,1
+universal-checkout,checkout:add a paypal account linking,2
+universal-checkout,checkout:add venmo account:apm_venmo:qr code screen,2
+universal-checkout,checkout:discount code error not valid,2
+universal-checkout,checkout:version upsell:concept id 10001483,2
+universal-checkout,checkout:confirm purchase,3
+universal-checkout,checkout:enter discount code,4
+universal-checkout,checkout:purchase details,5
+universal-checkout,checkout:add a payment method,8

@@ -1,0 +1,5 @@
+App Name,Location Scene,Count
+Overall,Overall,2
+universal-checkout,Overall,2
+universal-checkout,checkout:add venmo account:apm_venmo:qr code screen,1
+universal-checkout,checkout:add venmo account:apm_venmo:tandem commerce:loading,1
